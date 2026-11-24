@@ -1,0 +1,4 @@
+repository "GymnasiearbteTEINF3/GymnasiearbteTEINF3@5773980117820@cloud"
+  path "/"
+    br "/main"
+    co "/main"
